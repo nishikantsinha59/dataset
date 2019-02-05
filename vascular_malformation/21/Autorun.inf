@@ -1,0 +1,3 @@
+[autorun]
+OPEN=Viewer\mediaviewer.exe
+ICON=Viewer\mediaviewer.exe,1
